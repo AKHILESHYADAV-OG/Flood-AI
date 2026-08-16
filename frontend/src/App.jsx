@@ -132,7 +132,7 @@ function Login({
           </div>
 
           <div>
-            <h1>Flood AI</h1>
+            <h1>FloodGuard AI</h1>
 
             <p>
               AI-Powered Flood Intelligence
@@ -154,7 +154,7 @@ function Login({
           </h2>
 
           <p>
-            Flood AI combines rainfall,
+            FloodGuard AI combines rainfall,
             river levels, weather,
             terrain and historical data
             to predict flood risk using
@@ -186,7 +186,7 @@ function Login({
         <div className="auth-form">
 
           <div className="mobile-brand">
-            🌊 Flood AI
+            🌊 FloodGuard AI
           </div>
 
           <h2>
@@ -323,7 +323,7 @@ function Signup({
           <div>
 
             <h1>
-              Flood AI
+              FloodGuard AI
             </h1>
 
             <p>
@@ -347,7 +347,7 @@ function Signup({
           </h2>
 
           <p>
-            Create your Flood AI
+            Create your FloodGuard AI
             account and monitor
             environmental conditions
             for any location.
@@ -378,7 +378,7 @@ function Signup({
         <div className="auth-form">
 
           <div className="mobile-brand">
-            🌊 Flood AI
+            🌊 FloodGuard AI
           </div>
 
           <h2>
@@ -565,7 +565,7 @@ function Dashboard({
         await response.json();
 
       console.log(
-        "Flood AI API Response:",
+        "FloodGuard AI API Response:",
         data
       );
 
@@ -653,7 +653,7 @@ alert:
     } catch (err) {
 
       console.error(
-        "Flood AI Error:",
+        "FloodGuard AI Error:",
         err
       );
 
@@ -1086,7 +1086,7 @@ const insights =
           <div>
 
             <h2>
-              Flood AI
+              FloodGuard AI
             </h2>
 
             <span>
@@ -1960,7 +1960,7 @@ const insights =
         <footer>
 
           <span>
-            © 2026 Flood AI
+            © 2026 FloodGuard AI
           </span>
 
           <span>
