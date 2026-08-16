@@ -1,4 +1,4 @@
-\# 🌊 Flood AI
+\# 🌊 FloodGuard AI
 
 
 
@@ -10,7 +10,7 @@ AI-powered flood probability and risk prediction system.
 
 
 
-Flood AI combines rainfall, river level, weather forecast,
+FloodGuard AI combines rainfall, river level, weather forecast,
 
 elevation, soil moisture and historical flood data to estimate
 
